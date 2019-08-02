@@ -2,7 +2,7 @@ import sys
 import json
 
 if len(sys.argv) < 2:
-    print('uso: python tag_input.py <arquivo>')
+    print('uso: python script_origem.py <arquivo>')
     exit(-1)
 
 arquivo_entrada = open(sys.argv[1], 'r', encoding='utf8')
