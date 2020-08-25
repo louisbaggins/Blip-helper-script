@@ -1,0 +1,14 @@
+[
+    {
+        "Id": "{{bot_name}}",
+        "HMG": "{{hmg-key}}",
+        "BETA": "{{beta-key}}",
+        "PROD": "{{prod-key}}"
+    },
+    {
+        "Id": "{{bot_name}}",
+        "HMG": "{{hmg-key}}",
+        "BETA": "{{beta-key}}",
+        "PROD": "{{prod-key}}"
+    }
+]
